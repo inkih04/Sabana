@@ -14,6 +14,8 @@
 | **Backend** | [SabanaBack](https://github.com/inkih04/SabanaBack) | [🔧 Web Interface](https://it22d-backend.onrender.com/) | Django + DRF |
 | **API Docs** | Backend Repository | [📚 Swagger UI](https://it22d-backend.onrender.com/swagger/) | OpenAPI 3.0 |
 
+> ⚠️ **Important Note**: The live demos may take **30-60 seconds** to respond on first access due to free hosting tiers (Vercel and Render). Subsequent requests will be faster. Please be patient during the initial load.
+
 ## 📋 Project Overview
 
 **Sabana** is a comprehensive issue management system developed as a full-stack web application. The project demonstrates modern web development practices with a complete separation between frontend and backend, providing multiple ways to interact with the system.
